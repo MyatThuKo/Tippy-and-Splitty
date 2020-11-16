@@ -15,6 +15,7 @@
 		E261D1E4255E2A4E00A964B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E261D1E2255E2A4E00A964B0 /* LaunchScreen.storyboard */; };
 		E261D1EF255E2A4E00A964B0 /* Tippy_and_SplittyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E261D1EE255E2A4E00A964B0 /* Tippy_and_SplittyTests.swift */; };
 		E261D1FA255E2A4F00A964B0 /* Tippy_and_SplittyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E261D1F9255E2A4F00A964B0 /* Tippy_and_SplittyUITests.swift */; };
+		E2E0BB822562BDB0007760AB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E0BB812562BDB0007760AB /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E261D1F5255E2A4F00A964B0 /* Tippy and SplittyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tippy and SplittyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E261D1F9255E2A4F00A964B0 /* Tippy_and_SplittyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tippy_and_SplittyUITests.swift; sourceTree = "<group>"; };
 		E261D1FB255E2A4F00A964B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2E0BB812562BDB0007760AB /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E261D1D9255E2A4C00A964B0 /* SceneDelegate.swift */,
 				E261D1DB255E2A4C00A964B0 /* ViewController.swift */,
 				E261D1DD255E2A4C00A964B0 /* Main.storyboard */,
+				E2E0BB812562BDB0007760AB /* SettingsViewController.swift */,
 				E261D1E0255E2A4E00A964B0 /* Assets.xcassets */,
 				E261D1E2255E2A4E00A964B0 /* LaunchScreen.storyboard */,
 				E261D1E5255E2A4E00A964B0 /* Info.plist */,
@@ -261,6 +264,7 @@
 				E261D1DC255E2A4C00A964B0 /* ViewController.swift in Sources */,
 				E261D1D8255E2A4C00A964B0 /* AppDelegate.swift in Sources */,
 				E261D1DA255E2A4C00A964B0 /* SceneDelegate.swift in Sources */,
+				E2E0BB822562BDB0007760AB /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
